@@ -1,0 +1,11 @@
+Upute
+
+1. korak: otvoriti command prompt(na windowsu: WIN+Q i natipkati cmd)
+
+2. korak: napisati cd "lokaciju datoteke nagradniZadatak.exe"
+
+napomena!! ne napisati i nagradniZadatak.exe kao destinaciju
+
+3. korak: onda upisati
+
+nagradniZadatak.exe "lokacija direktorija za nadgledanje" [vrijeme u milisekundama]
